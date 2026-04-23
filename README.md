@@ -2,7 +2,6 @@
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Platform](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-FCC624?style=for-the-badge&logo=opensourceinitiative&logoColor=black)
 ![Repo Size](https://img.shields.io/github/repo-size/keep-xylent/Project-Kartel-Shop?style=for-the-badge)
 
 Game top-up & entertainment console application berbasis C++
@@ -87,7 +86,3 @@ g++ src/main.cpp -o build/main.exe -Iinclude
 - Windows OS
 - g++ (GCC C++ Compiler) untuk kompilasi
 - Console dengan support ANSI color
-
-## Lisensi
-
-Educational Project
